@@ -1,0 +1,13 @@
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\bin\Debug\APPopera.exe.config
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\bin\Debug\APPopera.exe
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\bin\Debug\APPopera.pdb
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\bin\Debug\opera.dll
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\bin\Debug\opera.pdb
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.csprojAssemblyReference.cache
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.Form1.resources
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.Properties.Resources.resources
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.csproj.GenerateResource.cache
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.csproj.CoreCompileInputs.cache
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.csproj.CopyComplete
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.exe
+C:\Users\JUANd\Desktop\aplicacio_c#\APPopera\obj\Debug\APPopera.pdb

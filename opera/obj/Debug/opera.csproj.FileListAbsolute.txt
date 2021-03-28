@@ -1,0 +1,6 @@
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\bin\Debug\opera.dll
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\bin\Debug\opera.pdb
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\obj\Debug\opera.csprojAssemblyReference.cache
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\obj\Debug\opera.csproj.CoreCompileInputs.cache
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\obj\Debug\opera.dll
+C:\Users\JUANd\Desktop\aplicacio_c#\opera\obj\Debug\opera.pdb
